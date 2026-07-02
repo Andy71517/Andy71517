@@ -1,8 +1,8 @@
 # Anirudh “Andy” Alledula
 
-MEng Computer Science student at Virginia Tech, focused on full-stack engineering, frontend product work, backend-integrated interfaces, and practical software systems that move beyond toy demos.
+Master of Engineering in Computer Science student at Virginia Tech, focused on full-stack engineering, frontend product work, backend-integrated interfaces, and practical software systems that move beyond toy demos.
 
-I like building applications where the UI is not just decoration, but the actual working surface of the product: dashboards, workflows, filters, routing, data views, state handling, and API-connected experiences that make messy information usable.
+I like building interfaces that act as the working surface of the product: dashboards, workflows, filters, routing, data views, state handling, and API-connected experiences that make messy information usable.
 
 Currently building toward software engineering roles with a focus on:
 
@@ -20,7 +20,7 @@ Currently building toward software engineering roles with a focus on:
 
 Capstone aircraft-maintenance platform built in a 5-engineer team environment.
 
-My work focused on high-impact frontend and integration features across the product, including aircraft reservation flows, plane-specific views, dashboard and analytics updates, frontend/backend wiring, and deployment-facing fixes such as nginx API proxy routing.
+My work focused on frontend and integration features across the product, including aircraft reservation flows, plane-specific views, dashboard and analytics updates, frontend/backend wiring, and deployment-facing fixes such as nginx API proxy routing.
 
 **Highlights**
 
@@ -40,7 +40,7 @@ React, TypeScript, frontend architecture, dashboard UI, API integration, capston
 
 Frontend for a team-built idol news aggregation MVP.
 
-I owned the frontend implementation for a React/TypeScript application that presents processed article data through a coverage feed, artist/group/source views, search, filtering, pagination, and a two-pane master-detail reading experience.
+I led much of the frontend implementation for a React/TypeScript application that presents processed article data through a coverage feed, artist/group/source views, search, filtering, pagination, and a two-pane master-detail reading experience.
 
 **Highlights**
 
@@ -76,5 +76,5 @@ My aim is to build public work that is clear, useful, and honest: not inflated, 
 ## Contact
 
 * GitHub: [Andy71517](https://github.com/Andy71517)
-* LinkedIn: https://www.linkedin.com/in/anirudhalledula
-* Email: anirudhalledula@vt.edu
+* LinkedIn: [anirudhalledula](https://www.linkedin.com/in/anirudhalledula)
+* Email: [anirudhalledula@vt.edu](mailto:anirudhalledula@vt.edu)
