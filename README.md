@@ -36,7 +36,7 @@ React, TypeScript, frontend architecture, dashboard UI, API integration, capston
 
 ---
 
-### IdolTracker — News Aggregation Frontend
+### [IdolTracker — News Aggregation Frontend](https://github.com/IdolTracker/IdolTrackerFrontend_Main)
 
 Frontend for a team-built idol news aggregation MVP.
 
